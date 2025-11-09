@@ -11,16 +11,6 @@ A ready-to-use **React project template** with everything installed, configured,
 - Environment variables support (`.env`)
 - Easy theming and styling with your preferred CSS framework
 
-## 🧩 Structure Example
-src/
-├── components/
-├── context/
-├── hooks/
-├── pages/
-├── services/
-├── styles/
-└── utils/
-
 ## 🛠️ Getting Started
 ```bash
 git clone https://github.com/fabioesilveira/TEMPLATE-REACT my-app
