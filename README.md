@@ -1,8 +1,29 @@
-# React + Vite
+# TEMPLATE-REACT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A ready-to-use **React project template** with everything installed, configured, and organized — perfect to start new projects quickly.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- React (Vite or CRA compatible)
+- Organized folder structure with clear sections (components, pages, context, hooks)
+- Global state management using **React Context**
+- ESLint + Prettier setup for clean, consistent code
+- Axios setup ready for API integration
+- Environment variables support (`.env`)
+- Easy theming and styling with your preferred CSS framework
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧩 Structure Example
+src/
+├── components/
+├── context/
+├── hooks/
+├── pages/
+├── services/
+├── styles/
+└── utils/
+
+## 🛠️ Getting Started
+```bash
+git clone https://github.com/fabioesilveira/TEMPLATE-REACT my-app
+cd my-app
+npm install
+npm run dev
