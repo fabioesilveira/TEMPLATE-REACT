@@ -13,7 +13,7 @@ A ready-to-use **React project template** with everything installed, configured,
 
 ## Screenshot
 
-![Screenshot](assets/Screenshot.png)
+![Screenshot](src/assets/Screenshot.png)
 
 
 ## 🛠️ Getting Started
